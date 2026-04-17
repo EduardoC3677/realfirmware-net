@@ -1,0 +1,1 @@
+<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fwp-content%2Fplugins%2Fjetpack%2Fjetpack_vendor%2Fautomattic%2Fwoocommerce-analytics%2Fbuild%2F193.js%3Fminify%3Dfalse%26amp%3Bver%3D5b5cf55edcce081b4ad1&y=ipc:145.132.102.178:1776431128.901"></meta></head></html>
