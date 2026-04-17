@@ -1,0 +1,1 @@
+<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fwp-content%2Fplugins%2Fwoocommerce-paypal-payments%2Fassets%2Fppcp-button-js-button.js%3Fver%3D3.4.1&y=ipc:145.132.102.178:1776431061.995"></meta></head></html>

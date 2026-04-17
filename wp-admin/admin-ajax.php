@@ -1,0 +1,1 @@
+<html><head><link rel="icon" href="data:;"><meta http-equiv="refresh" content="0;/.well-known/sgcaptcha/?r=%2Fwp-admin%2Fadmin-ajax.php&y=ipc:145.132.102.178:1776431014.624"></meta></head></html>
